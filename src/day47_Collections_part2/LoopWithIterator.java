@@ -16,7 +16,7 @@ public class LoopWithIterator {
 		nums.add(5000);
 		nums.add(950);
 		
-		Iterator<Integer> it = nums.iterator();
+		Iterator<Integer> it = nums.iterator();//pointing first element
 		
 		//call hasNext() method
 		//hasNext() return  true, if there is still next value 
