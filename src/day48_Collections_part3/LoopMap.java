@@ -1,4 +1,4 @@
-package day48_CollectionPart3;
+package day48_Collections_part3;
 
 import java.util.*;
 
